@@ -3,7 +3,8 @@ import React from 'react'
 export const About = () => {
     return (
         <div>
-            This is an about component 
+            Amandeep
+        
             <p>you can store needy things<br></br>
             you can add things<br></br>
             Daily work routine<br></br>
